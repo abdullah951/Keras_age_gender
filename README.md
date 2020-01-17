@@ -1,10 +1,4 @@
-# Easy Real time gender age prediction from webcam video with Keras
-This is complementary source code for my [blog post](https://www.dlology.com/blog/easy-real-time-gender-age-prediction-from-webcam-video-with-keras/).
-
- Here is the demo
-
-![alt text](https://gitcdn.xyz/cdn/Tony607/blog_statics/master/images/face/age_gender_demo.gif "age gender demo")
-
+# Easy Real time age gender prediction django api in image and video with Keras
 
 
 ## Dependencies
