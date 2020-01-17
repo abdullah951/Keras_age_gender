@@ -17,11 +17,6 @@ Tested on:
 pip3 install -r requirements.txt
 ```
 
-## Run the demo
-```
-python realtime_demo.py
-```
-
 When you use it for the first time , weights are downloaded and stored in **./pretrained_models** folder.
 Or you can download it directly from
 ```
