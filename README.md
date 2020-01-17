@@ -1,4 +1,4 @@
-# Easy Real time age gender prediction django api in image and video with Keras
+# Easy Real time age gender prediction in image and video with Keras
 
 
 ## Dependencies
@@ -8,6 +8,7 @@
 - TensorFlow 1.4.0
 - opencv 1.0.1+
 - opencv-python 3.3.0+contrib
+- Django
 
 Tested on:
 - Windows 10 with Tensorflow 1.4.0 GPU
